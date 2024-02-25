@@ -1,0 +1,1 @@
+/* List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name, and start and end employment dates. */
